@@ -1,0 +1,4 @@
+1.Instalar todas las librerias externas en python
+2. ejecutar proyectoGraficas
+3. las teclas asdw son las que hacen menear la camara
+4 el mouse es el movimiento en circulo 
